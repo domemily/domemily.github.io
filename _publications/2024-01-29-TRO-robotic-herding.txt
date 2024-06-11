@@ -6,4 +6,5 @@ date: 2024-04-22
 venue: 'IEEE Transactions on Robotics'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10415546'
+citation: 'Shuai Zhang, Xiaokang Lei, Mengyuan Duan, Xingguang Peng, Jia Pan (2024). &quot;A Distributed Outmost Push Approach for Multi-robot Herding.&quot; <i>IEEE Transactions on Robotics</i>. 1(2).'
 ---
