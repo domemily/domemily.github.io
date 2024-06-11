@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Shuai ZHANG / HopePage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -23,8 +23,8 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Shuai ZHANG"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  pronouns         : # example: "He/his"  
+  bio              : "Postdoctoral Fellow @ the University of Hong Kong"
   location         : "Hong Kong"
   employer         : "The University of Hong Kong"
   uri              : # URL
