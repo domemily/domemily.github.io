@@ -8,20 +8,20 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Shuai ZHANG / HomePage"
+title                    : "Shuai ZHANG | Personal Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Shuai ZHANG"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://domemily.github.io # the base hostname & protocol for your site e.g. "https://domemily.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "domemily/domemily.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "shuai.jpg"
+  avatar           : "profile.png"
   name             : "Shuai ZHANG"
   pronouns         : # example: "He/his"  
   bio              : "Postdoctoral Fellow @ The University of Hong Kong"
@@ -36,7 +36,7 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0003-2750-114X"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : "https://www.researchgate.net/profile/Shuai-Zhang-31"
 
   # Repositories and software development
