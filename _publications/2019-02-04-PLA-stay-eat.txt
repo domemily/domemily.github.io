@@ -1,0 +1,10 @@
+---
+title: "Stay-eat or run-away: Two alternative escape behaviors"
+collection: publications
+permalink: /publication/2019-02-04-PLA-stay-eat
+date: 2019-02-04
+venue: 'Physics Letters A'
+slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
+paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0375960119300246'
+citation: '<b><u>Zhang, S.</u></b>, Liu, M., Lei, X., & Huang, Y. (2019). &quot;Stay-eat or run-away: Two alternative escape behaviors. &quot; <i>Physics Letters A</i>, 383(7), 593-599.' 
+---

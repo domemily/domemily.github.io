@@ -1,0 +1,10 @@
+---
+title: "Group chase and escape with prey's anti-attack behavior"
+collection: publications
+permalink: /publication/2019-10-25-PLA-anti-attack
+date: 2019-10-25
+venue: 'Physics Letters A'
+slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
+paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0375960119306747'
+citation: '<b><u>Zhang, S.</u></b>, Liu, M., Lei, X., Yang, P., Huang, Y., & Clark, R. (2019). &quot;Group chase and escape with prey's anti-attack behavior. &quot; <i>Physics Letters A</i>, 383(30), 125871.' 
+---

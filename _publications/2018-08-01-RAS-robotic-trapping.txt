@@ -1,0 +1,10 @@
+---
+title: "Multi-target trapping with swarm robots based on pattern formation"
+collection: publications
+permalink: /publication/2018-08-01-RAS-robotic-trapping
+date: 2018-08-02
+venue: 'Robotics and Autonomous Systems'
+slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
+paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0921889017306024'
+citation: '<b><u>Zhang, S.</u></b>, Liu, M., Lei, X., Huang, Y., & Zhang, F. (2018).). &quot;Multi-target trapping with swarm robots based on pattern formation. &quot; <i>Robotics and Autonomous Systems</i>, 106, 1-13.' 
+---
