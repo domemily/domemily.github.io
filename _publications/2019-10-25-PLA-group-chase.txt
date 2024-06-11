@@ -1,10 +1,10 @@
 ---
-title: "Stay-eat or run-away: Two alternative escape behaviors"
+title: "Group chase and escape with prey's anti-attack behavior"
 collection: publications
 permalink: /publication/2019-10-25-PLA-group-chase
 date: 2019-10-25
 venue: 'Physics Letters A'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0375960119300246'
-citation: '<b><u>Zhang, S.</u></b>, Liu, M., Lei, X., & Huang, Y. (2019). &quot;Stay-eat or run-away: Two alternative escape behaviors. &quot; <i>Physics Letters A</i>, 383(7), 593-599.' 
+citation: '<b><u>Zhang, S.</u></b>, Liu, M., Lei, X., & Huang, Y. (2019). &quot;Group chase and escape with prey's anti-attack behavior. &quot; <i>Physics Letters A</i>, 383(30), 125871.' 
 ---
