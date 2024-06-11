@@ -1,0 +1,10 @@
+---
+title: "Cooperative Object Transport by Two Robots Connected With a Ball-String-Ball Structure"
+collection: publications
+permalink: /publication/2024-03-20-RAL-robotic-transport
+date: 2024-03-20
+venue: 'IEEE Robotics and Automation Letters'
+slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/10476624'
+citation: 'Huang Y., and <b><u>Zhang, S*.</u></b>. &quot;Cooperative Object Transport by Two Robots Connected With a Ball-String-Ball Structure. &quot; <i>IEEE Robotics and Automation Letters</i>, 9(5), pp. 4313-4320.' 
+---
