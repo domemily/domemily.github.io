@@ -1,0 +1,10 @@
+---
+title: "Collecting a flock with multiple sub-groups by using multi-robot system"
+collection: publications
+permalink: /publication/2022-05-26-RAL-robotic-collecting
+date: 2022-05-26
+venue: 'IEEE Robotics and Automation Letters'
+slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/9782555'
+citation: '<b><u>Zhang, S.</u></b>, & Pan, J. (2024). &quot;Collecting a flock with multiple sub-groups by using multi-robot system. &quot; <i>IEEE Robotics and Automation Letters</i>, 7(3), pp. 6974-6981.' 
+---
