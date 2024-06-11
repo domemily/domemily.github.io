@@ -1,0 +1,9 @@
+---
+title: "A Distributed Outmost Push Approach for Multi-robot Herding"
+collection: publications
+permalink: /publication/2024-04-22-TRO-Robotic-Trapping
+date: 2024-04-22
+venue: 'IEEE Transactions on Robotics'
+slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/10415546'
+---
