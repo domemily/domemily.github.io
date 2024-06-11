@@ -1,0 +1,10 @@
+---
+title: "Dynamics and motion patterns of a k-capture game with attraction-repulsion interaction"
+collection: publications
+permalink: /publication/2019-11-25-EPL-k-capture
+date: 2019-11-25
+venue: 'Europhysics Letters'
+slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
+paperurl: 'https://iopscience.iop.org/article/10.1209/0295-5075/128/10003/meta'
+citation: '<b><u>Zhang, S.</u></b>, Liu, M. Y., Lei, X. K., & Huang, Y. K. (2019).. &quot;Dynamics and motion patterns of a k-capture game with attraction-repulsion interaction. &quot; <i>Europhysics Letters</i>, 128(1), 10003.' 
+---
