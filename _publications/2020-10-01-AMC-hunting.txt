@@ -1,0 +1,10 @@
+---
+title: "Frequency-dependent strategy selection in a hunting game with a finite population"
+collection: publications
+permalink: /publication/2020-10-01-AMC-hunting
+date: 2020-10-01
+venue: 'Applied Mathematics and Computation'
+slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
+paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0096300320303192'
+citation: '<b><u>Zhang, S.</u></b>, Clark, R., & Huang, Y. (2020). &quot;Frequency-dependent strategy selection in a hunting game with a finite population. &quot; <i>Applied Mathematics and Computation</i>, 382, 125355.' 
+---
