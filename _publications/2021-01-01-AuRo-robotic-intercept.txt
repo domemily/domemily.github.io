@@ -1,0 +1,10 @@
+---
+title: "Synchronous intercept strategies for a robotic defense-intrusion game with two defenders"
+collection: publications
+permalink: /publication/2021-01-01-AuRo-robotic-intercept
+date: 2024-04-22
+venue: 'Autonomous Robots'
+slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
+paperurl: 'https://link.springer.com/article/10.1007/s10514-020-09945-6'
+citation: '<b><u>Zhang, S.</u></b>, Liu, M., Lei, X., Yang, P., Huang, Y., & Clark, R. (2021). &quot;Synchronous intercept strategies for a robotic defense-intrusion game with two defenders. &quot; <i>Autonomous Robots</i>, 45, 15-30.' 
+---
