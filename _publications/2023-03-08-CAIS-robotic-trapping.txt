@@ -1,0 +1,10 @@
+---
+title: "Self-organized multi-target trapping of swarm robots with density-based interaction"
+collection: publications
+permalink: /publication/2023-03-08-CAIS-robotic-trapping
+date: 2023-03-08
+venue: 'Complex & Intelligent Systems'
+slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
+paperurl: 'https://link.springer.com/article/10.1007/s40747-023-01014-6'
+citation: 'Lei, X., <b><u>Zhang, S*.</u></b>, Xiang, Y., & Duan, M. (2023). &quot;Self-organized multi-target trapping of swarm robots with density-based interaction. &quot; <i>Complex & Intelligent Systems.</i> 9(5), 5135-5155.' 
+---
