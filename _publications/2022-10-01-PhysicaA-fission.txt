@@ -5,6 +5,6 @@ permalink: /publication/2022-10-01-PhysicaA-fission
 date: 2022-10-01
 venue: 'Physica A: Statistical Mechanics and its Applications'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl:'https://www.sciencedirect.com/science/article/abs/pii/S0378437122004794'
-citation: '<b><u>Zhang, S.</u></b>, Lei, X., Zheng, Z., & Peng, X. (2022). &quot;Collective fission behavior in swarming systems with density-based interaction. &quot; <i>Physica A: Statistical Mechanics and its Applications</i>, 603, 127723.' 
+paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0378437122004794'
+citation: '<b><u>Zhang, S.</u></b>, Lei, X., Zheng, Z., & Peng, X. (2022). &quot;Collective fission behavior in swarming systems with density-based interaction. &quot; <i>Physica A: Statistical Mechanics and its Applications.</i> 603, 127723.' 
 ---
