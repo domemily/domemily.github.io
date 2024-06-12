@@ -1,11 +1,12 @@
 ---
-title: "Potential postions (RA, Ph.D, PostDoc) for undergraduates in Hong Kong"
+title: "Conference Proceeding talk on IROS2022"
 collection: talks
-type: "Talk"
-permalink: /talks/2024-02-29-xian-student
-venue: "Xi'an University of Architecture and Technology"
-date: 2024-02-29
-location: "Xi'an, China"
+type: "Conference proceedings talk"
+permalink: /talks/2023-08-22-conference-swarm-intelligence
+venue: "The 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems"
+date: 2022-10-23
+location: "Kyoto International Conference Center, Japan"
 ---
-I give a talk for undergraduates to introduce potential postions like Research Assistant, Ph.D, Research Associate positions etc., in Hong Kong.
 
+I give a presentation on the conference titiled "Collecting a flock with multiple sub-groups by using multi-robot
+system".
