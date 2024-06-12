@@ -1,5 +1,5 @@
 ---
-title: "Conference Proceeding talk on multi-robot herding"
+title: "Conference Proceeding talk on ICSICR 2023"
 collection: talks
 type: "Conference proceedings talk"
 permalink: /talks/2023-08-22-conference-swarm-intelligence

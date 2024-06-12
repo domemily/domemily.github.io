@@ -1,0 +1,11 @@
+---
+title: "Conference Proceeding talk on ICARM 2016"
+collection: talks
+type: "Conference proceedings talk"
+permalink: /talks/2016-08-18-conference-xian
+venue: "2016 IEEE International Conference on Advanced Robotics and Mechatronics (ICARM)"
+date: 2016-08-18
+location: "The University of Macau, Macau, China"
+---
+
+I give a presentation on the conference titiled "Pattern formation in constrained environments: A swarm robot target trapping method".
