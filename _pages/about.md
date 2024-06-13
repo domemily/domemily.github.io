@@ -44,7 +44,7 @@ News
   Our new paper on Cooperative Object Transport by Two Robots Connected With a Ball-String-Ball Structure has been published in <i>IEEE Robotics and Automation Letters (RA-L)</i>, 2024
 * <b>January 29, 2024</b> 
   Our new paper on A Distributed Outmost Push Approach for Multi-robot Herding has been published in <i>IEEE Transactions on Robotics (T-RO)</i>, 2024
-* June 29 2023 
+* **June 29 2023** 
   Assigned as an Associate Editor for IEEE International Conference on Robotics and Biomimetics (ROBIO 2023)
 
 Getting started
