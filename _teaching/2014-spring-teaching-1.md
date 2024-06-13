@@ -3,10 +3,8 @@ title: "Optimization methods in robotics"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/course-optimization
-#venue: "University 1, Department"
-#date: 2014-01-01
-#location: "City, Country"
 ---
+I am preparing a course about optimization methods in robotics. Click the title for more information.
 
 Optimization is integral to the advancement of robotics, pushing the boundaries of what these intelligent agents can achieve. The optimization methods are crucial in robotics for several reasons:
 
@@ -22,7 +20,7 @@ Examples of optimization methods in robotics include:
 * Motion Control: Real-time model-based optimization and model predictive control are used for online motion control, improving the behavior style of robots, especially humanoid ones.
 * Task-Oriented Design: Combining path planning algorithms with dimensional synthesis to optimize both robot geometry and pose for specific tasks.
 
-I am preparing a course about optimization methods in robotics. Here is the outline for the course:
+Here is the outline for the course:
 
 * Introduction to Optimization
   * Definition and importance of optimization in robotics
