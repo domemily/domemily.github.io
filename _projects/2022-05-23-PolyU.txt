@@ -1,0 +1,11 @@
+---
+title: "Seminar talk at The Hong Kong Polytechnic University"
+collection: talks
+type: "Seminar talk"
+permalink: /talks/2022-05-23-PolyU
+venue: "The Department of Aeronautical and Aviation Engineering, The Hong Kong Polytechnic University"
+date: 2022-05-23
+location: "Online via Zoom"
+---
+
+I give a talk at the Department of Aeronautical and Aviation Engineering, The Hong Kong Polytechnic University, titiled "Swarm Robotics in Adversarial Scenarios".

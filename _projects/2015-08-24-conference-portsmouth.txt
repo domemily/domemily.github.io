@@ -1,0 +1,12 @@
+---
+title: "Conference Proceeding talk on ICIRA 2015"
+collection: talks
+type: "Conference proceedings talk"
+permalink: /talks/2015-08-24-conference-portsmouth
+venue: "In International Conference on Intelligent Robotics and
+Applications: 9th International Conference (ICIRA)"
+date: 2015-08-24
+location: "Portsmouth, United Kingdom"
+---
+
+I give a presentation on the conference titiled "Gene regulatory networks with asymmetric information for swarm robot pattern formation".
