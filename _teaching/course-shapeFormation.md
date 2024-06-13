@@ -1,8 +1,10 @@
 ---
 title: "Shape Formation Control in Robotics"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate/Postgraduate"
+venue: "Control and Autonomous systems"
 permalink: /teaching/course-shapeFormation
+location: "Hong Kong"
 ---
 I am preparing a course about Shape Formation Control in Robotics. Click the title for more information.
 

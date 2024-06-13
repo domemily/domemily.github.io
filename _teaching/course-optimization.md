@@ -1,7 +1,10 @@
 ---
-title: "Optimization methods in robotics"
+title: "Optimization Methods in Robotics"
 collection: teaching
+type: "Undergraduate/Postgraduate"
+venue: "Control and Autonomous systems"
 permalink: /teaching/course-optimization
+location: "Hong Kong"
 ---
 I am preparing a course about optimization methods in robotics. Click the title for more information.
 
