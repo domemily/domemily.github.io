@@ -1,6 +1,6 @@
 ---
 title: "Seminar talk at Xi'an University of Architecture and Technology"
-collection: talks
+collection: projects
 type: "Seminar talk"
 permalink: /projects/2024-02-29-xian-student
 venue: "Xi'an University of Architecture and Technology"
