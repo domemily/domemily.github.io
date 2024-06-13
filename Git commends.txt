@@ -8,10 +8,10 @@ git pull --rebase superman master
 修改后
 
 git add .
-git comment -m "remove demo modify title"
+git commit -m "remove demo modify title"
 
 git config --global user.email "shuaizhang2017@gmail.com"
 
 git add .
-git comment -m "remove demo modify title"
+git commit -m "remove demo modify title"
 git push -u superman master
