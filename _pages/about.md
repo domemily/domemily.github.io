@@ -18,7 +18,7 @@ Research Interest
 * Differential privacy
 * Bio-inspired optimization
 
-Academic Services
+Services
 ======
 * Associate Editor 
   * 2023 IEEE International Conference on Robotics and Biomimetics (IEEE ROBIO 2023)
@@ -49,5 +49,7 @@ News
   Our new paper "A Distributed Outmost Push Approach for Multi-robot Herding" has been published in <i>IEEE Transactions on Robotics (T-RO)</i>, 2024
 * **June 29, 2023** 
 
-    I am assigned as an Associate Editor for <i>IEEE International Conference on Robotics and Biomimetics (ROBIO 2023)<i>.
+    I am assigned as an **Associate Editor** for <i>IEEE International Conference on Robotics and Biomimetics (ROBIO 2023)<i>.
+
+
 

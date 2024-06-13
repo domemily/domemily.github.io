@@ -18,7 +18,7 @@ Education
 
 Employment
 ======
-* May 2021-Present: The University of Hong Kong & Centre For Garment Production limited 
+* May 2021-Present: The University of Hong Kong & Centre for Garment Production limited 
   * Postdoctoral Fellow
   
 * July 2020-May 2021: Northwestern Polytechnical University 
@@ -52,7 +52,19 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service
+Services
 ======
-* Associate Editor of 2023 IEEE International Conference on Robotics and Biomimetics (IEEE ROBIO 2023).
-* Reviewer of IEEE Transactions on Robotics, IEEE Transactions on Control of Network Systems, IEEE Robotics and Automation Letters, Scientific Reports, SN Applied Sciences, Complex & Intelligent Systems, International Journal of Power Electronics and Drive System, Nonlinear Dynamics, Journal of Physics: complexity, International conference (e.g., IROS, Robio, etc), etc.
+* Associate Editor 
+  * 2023 IEEE International Conference on Robotics and Biomimetics (IEEE ROBIO 2023)
+* Reviewer for Journal
+  * IEEE Transactions on Robotics (T-RO)
+  * IEEE Transactions on Control of Network Systems (T-CNS) 
+  * IEEE Robotics and Automation Letters (R-AL) 
+  * IEEE Access
+  * Scientific Reports 
+  * SN Applied Sciences
+  * Complex & Intelligent Systems
+  * International Journal of Power Electronics and Drive System 
+  * Nonlinear Dynamics 
+  * Journal of Physics: Complexity 
+  * International conference (e.g., IROS, ROBIO) etc.
