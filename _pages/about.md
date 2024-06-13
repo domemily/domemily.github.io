@@ -18,23 +18,32 @@ Research Interest
 * Differential privacy
 * Bio-inspired optimization
 
-Academic Service
+Academic Services
 ======
 * Associate Editor 
   * 2023 IEEE International Conference on Robotics and Biomimetics (IEEE ROBIO 2023)
 * Reviewer for Journal
-  * IEEE Transactions on Robotics,
-  * IEEE Transactions on Control of Network Systems, 
-  * IEEE Robotics and Automation Letters, 
-  * Scientific Reports, 
-  * SN Applied Sciences, 
-  * Complex & Intelligent Systems, 
-  * International Journal of Power Electronics and Drive System, 
-  * Nonlinear Dynamics, 
-  * Journal of Physics: complexity, 
+  * IEEE Transactions on Robotics (T-RO)
+  * IEEE Transactions on Control of Network Systems (T-CNS) 
+  * IEEE Robotics and Automation Letters (R-AL) 
+  * IEEE Access
+  * Scientific Reports 
+  * SN Applied Sciences
+  * Complex & Intelligent Systems
+  * International Journal of Power Electronics and Drive System 
+  * Nonlinear Dynamics 
+  * Journal of Physics: Complexity 
   * International conference (e.g., IROS, ROBIO) etc.
 
 
+News
+======
+April 22, 2024 
+  Our new paper on <b>Heterogeneous Targets Trapping with Swarm Robots by Using Adaptive Density-based Interaction</b> has been published in <i>IEEE Transactions on Robotics (T-RO)</i>, 2024
+March 20, 2024 
+  Our new paper on <b>Cooperative Object Transport by Two Robots Connected With a Ball-String-Ball Structure</b> has been published in <i>IEEE Robotics and Automation Letters (RA-L)</i>, 2024
+January 29, 2024 
+  Our new paper on <b>A Distributed Outmost Push Approach for Multi-robot Herding</b> has been published in <i>IEEE Transactions on Robotics (T-RO)</i>, 2024
 
 Getting started
 ======
