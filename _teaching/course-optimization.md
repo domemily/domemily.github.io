@@ -5,6 +5,7 @@ type: "Undergraduate/Postgraduate"
 venue: "Control and Autonomous systems"
 permalink: /teaching/course-optimization
 location: "Hong Kong"
+date: 2024-01-01
 ---
 I am preparing a course about optimization methods in robotics. Click the title for more information.
 

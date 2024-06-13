@@ -5,6 +5,7 @@ type: "Undergraduate/Postgraduate"
 venue: "Control and Autonomous systems"
 permalink: /teaching/course-shapeFormation
 location: "Hong Kong"
+date: 2024-01-01
 ---
 I am preparing a course about Shape Formation Control in Robotics. Click the title for more information.
 
