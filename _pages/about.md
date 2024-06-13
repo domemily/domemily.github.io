@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Currently, I am a Postdoctoral Fellow at the [University of Hong Kong (HKU)](https://www.hku.hk) advised by [Prof. Jia Pan](https://www.cs.hku.hk/people/academic-staff/jpan). Before that, I was a Postdoctoral Fellow at Northwestern Polytechnical University, working with [Prof. Xingguang Peng](https://teacher.nwpu.edu.cn/xgpeng). I received my PhD degree and Master degree in Marine Science and Technology from Northwestern Polytechnical University, under the supervision of [Prof. Mingyong Liu](https://teacher.nwpu.edu.cn/liumingyong) and [Prof. Xingguang Peng](https://teacher.nwpu.edu.cn/xgpeng). I was a Joint PhD student at the Intelligent Computational Engineering Laboratory [ICE LAB](https://icelab.uk), Department of Mechanical and Aerospace Engineering, the University of Strathclyde, UK, under the supervision of [Dr. Edmondo Minisci](https://www.strath.ac.uk/staff/minisciedmondodr/#contact). 
+Currently, I am a Postdoctoral Fellow at the [University of Hong Kong (HKU)](https://www.hku.hk) advised by [Prof. Jia Pan](https://www.cs.hku.hk/people/academic-staff/jpan). Before that, I was a Postdoctoral Fellow at Northwestern Polytechnical University, working with [Prof. Xingguang Peng](https://teacher.nwpu.edu.cn/xgpeng). I received my Ph.D. degree and Master degree in Marine Science and Technology from Northwestern Polytechnical University, under the supervision of [Prof. Mingyong Liu](https://teacher.nwpu.edu.cn/liumingyong) and [Prof. Xingguang Peng](https://teacher.nwpu.edu.cn/xgpeng). I was a Joint Ph.D. student at the Intelligent Computational Engineering Laboratory [ICE LAB](https://icelab.uk), Department of Mechanical and Aerospace Engineering, the University of Strathclyde, UK, under the supervision of [Dr. Edmondo Minisci](https://www.strath.ac.uk/staff/minisciedmondodr/#contact). 
 
 
 Research Interest
@@ -17,6 +17,24 @@ Research Interest
 * Agent based modeling and simulation, Distributed control
 * Differential privacy
 * Bio-inspired optimization
+
+Academic Service
+======
+* Associate Editor 
+  * 2023 IEEE International Conference on Robotics and Biomimetics (IEEE ROBIO 2023)
+* Reviewer for Journal
+  * IEEE Transactions on Robotics,
+  * IEEE Transactions on Control of Network Systems, 
+  * IEEE Robotics and Automation Letters, 
+  * Scientific Reports, 
+  * SN Applied Sciences, 
+  * Complex & Intelligent Systems, 
+  * International Journal of Power Electronics and Drive System, 
+  * Nonlinear Dynamics, 
+  * Journal of Physics: complexity, 
+  * International conference (e.g., IROS, ROBIO) etc.
+
+
 
 Getting started
 ======
