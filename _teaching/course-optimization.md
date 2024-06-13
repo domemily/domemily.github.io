@@ -1,7 +1,6 @@
 ---
 title: "Optimization methods in robotics"
 collection: teaching
-type: "Undergraduate course"
 permalink: /teaching/course-optimization
 ---
 I am preparing a course about optimization methods in robotics. Click the title for more information.
