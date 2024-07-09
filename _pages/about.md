@@ -25,7 +25,7 @@ Services
 * Reviewer for Journal
   * IEEE Transactions on Robotics (T-RO)
   * IEEE Transactions on Control of Network Systems (T-CNS) 
-  * IEEE Robotics and Automation Letters (R-AL) 
+  * IEEE Robotics and Automation Letters (RA-L) 
   * IEEE Access
   * Scientific Reports 
   * SN Applied Sciences

@@ -1,9 +1,9 @@
 ---
-title: "Impact-Aware Task-Space Quadratic-Programming Control"
-excerpt: "We enable swift robot motion without fearing impacts with the environment. For instance in a box manipulation task, the robot does not need to stop or use close-to-zero velocity to establish contacts.
+title: "Portfolio item number 1"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-As a model-based approach, the quadratic-programming controllers need to preview the state jumps due to the impacts. 
+This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
 
 
