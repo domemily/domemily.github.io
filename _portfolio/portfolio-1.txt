@@ -1,6 +1,6 @@
 ---
 title: "Swarm Robotics and Multi-robot Systems"
-excerpt: "Our goal is to develop new methodologies to control swarm robotic systems to fulfill complex tasks that cannot be accomplished by a single robot <br/><img src='/images/SwarmBang.png'>"
+excerpt: "Our goal is to develop new methodologies to control swarm robotic systems to fulfill complex tasks that cannot be accomplished by a single robot. <br/><img src='/images/SwarmBang.png'>"
 collection: portfolio
 ---
 
