@@ -12,7 +12,7 @@ Currently, I am a Postdoctoral Fellow at the [University of Hong Kong (HKU)](htt
 <iframe
     width="320"
     height="240"
-    src="https://www.youtube.com/watch?v=Yc_P94UJCCU&t=10s"
+    src="https://www.youtube.com/embed/Yc_P94UJCCU&t=10s"
     frameborder="0"
     allow="autoplay; encrypted-media"
     allowfullscreen
@@ -62,12 +62,3 @@ News
     I am assigned as an **Associate Editor** for <i>IEEE International Conference on Robotics and Biomimetics (ROBIO 2023)<i>.
 
 
-{% include base_path %}
- {% capture written_year %}'None'{% endcapture %}
- {% for post in site.posts %}
-   {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-   {% if year != written_year %}
-     {% capture written_year %}{{ year }}{% endcapture %}
-   {% endif %}
-   {% include archive-single.html %}
- {% endfor %}
