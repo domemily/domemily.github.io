@@ -10,8 +10,8 @@ citation: 'Lei, X., <b><u>Zhang, S*.</u></b>, Xiang, Y., & Duan, M. (2023). &quo
 ---
 
 <iframe
-    width="320"
-    height="240"
+    width="160"
+    height="120"
     src="https://www.youtube.com/embed/Yc_P94UJCCU"
     frameborder="0"
     allow="autoplay; encrypted-media"

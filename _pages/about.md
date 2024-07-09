@@ -9,16 +9,6 @@ redirect_from:
 ---
 Currently, I am a Postdoctoral Fellow at the [University of Hong Kong (HKU)](https://www.hku.hk) advised by [Prof. Jia Pan](https://www.cs.hku.hk/people/academic-staff/jpan). Before that, I was a Postdoctoral Fellow at Northwestern Polytechnical University, working with [Prof. Xingguang Peng](https://teacher.nwpu.edu.cn/xgpeng). I received my Ph.D. degree and Master degree in Marine Science and Technology from Northwestern Polytechnical University, under the supervision of [Prof. Mingyong Liu](https://teacher.nwpu.edu.cn/liumingyong) and [Prof. Xingguang Peng](https://teacher.nwpu.edu.cn/xgpeng). I was a Joint Ph.D. student at the Intelligent Computational Engineering Laboratory [ICE LAB](https://icelab.uk), Department of Mechanical and Aerospace Engineering, the University of Strathclyde, UK, under the supervision of [Dr. Edmondo Minisci](https://www.strath.ac.uk/staff/minisciedmondodr/#contact). 
 
-<iframe
-    width="320"
-    height="240"
-    src="https://www.youtube.com/embed/Yc_P94UJCCU"
-    frameborder="0"
-    allow="autoplay; encrypted-media"
-    allowfullscreen
->
-</iframe>
-
 Research Interest
 ======
 * Swarm robots/drones, Robotics and autonomous systems, Multi-robot/agent systems
