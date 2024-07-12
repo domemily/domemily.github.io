@@ -14,6 +14,29 @@ collection: portfolio
 >
 </iframe>
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+This is a multimedia material that supports the paper entitled "Self-organized multi-target trapping of swarm robots with density-based interaction", published in Complex & Intelligent Systems, 2023.
 
+<iframe
+    width="160"
+    height="120"
+    src="https://www.youtube.com/embed/_AosEIQdzF4"
+    frameborder="0"
+    allow="autoplay; encrypted-media"
+    allowfullscreen
+>
+</iframe>
 
+This is a multimedia material that supports the paper entitled "A Distributed Outmost Push Approach for
+Multi-robot Herding", published in IEEE Transactions on Robotics, 2024.
+
+<iframe
+    width="160"
+    height="120"
+    src="https://www.youtube.com/embed/4sE3xP7H1KQ"
+    frameborder="0"
+    allow="autoplay; encrypted-media"
+    allowfullscreen
+>
+</iframe>
+
+This is a multimedia material that supports the paper entitled "Heterogeneous targets trapping with swarm robots by using adaptive density-based interaction", published in IEEE Transactions on Robotics, 2024.
