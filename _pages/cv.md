@@ -18,12 +18,9 @@ Education
 
 Employment
 ======
-* May 2021-Present: The University of Hong Kong & Centre for Garment Production limited 
+* 2021-Present: The University of Hong Kong 
   * Postdoctoral Fellow
   
-* July 2020-May 2021: Northwestern Polytechnical University 
-  * Postdoctoral Fellow
-
  
 Research Interests
 ======
