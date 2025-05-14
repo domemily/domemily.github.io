@@ -18,7 +18,9 @@ Education
 
 Employment
 ======
-* 2021-Present: The University of Hong Kong 
+* 2025-Present: Nanyang Technological University (NTU)
+  * Research Fellow
+* 2021-2025: The University of Hong Kong (HKU)
   * Postdoctoral Fellow
   
  
