@@ -38,6 +38,9 @@ Services
 
 News
 ======
+* <b>January 8, 2025</b> 
+
+  Our new paper "Swarm Robotic Flocking With Aggregation Ability Privacy" has been published in <i>IEEE Transactions on Automation Science and Engineering (TASE)</i>, 2025.
 * <b>April 22, 2024</b> 
 
   Our new paper "Heterogeneous Targets Trapping with Swarm Robots by Using Adaptive Density-based Interaction" has been published in <i>IEEE Transactions on Robotics (T-RO)</i>, 2024.
